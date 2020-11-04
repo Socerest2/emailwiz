@@ -136,3 +136,6 @@ to support me at [lukesmith.xyz/donate](https://lukesmith.xyz/donate.html).
   worry if you are: sometimes especially new domains are automatically assumed
   to be spam temporaily. If you are blacklisted by one of these, look into it
   and it will explain why and how to remove yourself.
+- Also, some VPS providers block the SMTP port to send mail. Most of the time, 
+  these are soft blocks, and you just have to contact your VPS provider to 
+  unblock the port to send mail.
